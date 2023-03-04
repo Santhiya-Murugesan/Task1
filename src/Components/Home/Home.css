@@ -1,0 +1,11 @@
+.homebg{
+    background-image: url('https://media.istockphoto.com/id/1213810745/photo/freelancer-with-laptop-computer-working-on-the-beach-freelance-work.jpg?s=612x612&w=0&k=20&c=C2y5EWbtcEsA8yExHc2epW3WbewASlZ_GB03HHHla9k=');
+    background-size: cover;
+    background-repeat: repeat;
+    height: 100vh;
+}
+.hometext{
+    color:rgb(66, 6, 66);
+    font-weight: bolder;
+    font-size:30px;
+}
